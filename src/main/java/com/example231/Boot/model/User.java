@@ -4,7 +4,6 @@ package com.example231.Boot.model;
 import jakarta.persistence.*;
 
 
-
 @Entity
 @Table(name = "users")
 public class User {

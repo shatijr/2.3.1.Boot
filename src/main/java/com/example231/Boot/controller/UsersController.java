@@ -1,7 +1,5 @@
 package com.example231.Boot.controller;
 
-
-
 import com.example231.Boot.model.User;
 import com.example231.Boot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class UsersController {
-
 
     private final UserService userService;
 

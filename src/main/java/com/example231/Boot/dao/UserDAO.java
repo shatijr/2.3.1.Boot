@@ -1,6 +1,5 @@
 package com.example231.Boot.dao;
 
-
 import com.example231.Boot.model.User;
 
 import java.util.List;
